@@ -1,0 +1,7 @@
+id=canong-jp-felica-aosp
+name=Patch for Redmi Note 9T 5G Japan(AOSP)
+version=v01
+versionCode=1
+author=soralis_0912
+description=Redmi Note 9T 5G 日本版用パッチ(AOSP版)
+updateJson=https://raw.githubusercontent.com/soralis0912/magisk-module-canong-jp-felica-aosp/master/update.json
